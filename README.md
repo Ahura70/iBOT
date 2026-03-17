@@ -1,6 +1,6 @@
 # iBOT
 True agentic AI that acts like a self-directed quant researcher
-iBOT is the implentation of a research paper titled "Beyond Prompting: An Autonomous Framework for Systematic Factor Investing via Agentic AI," by Allen Yikuan Huang and Zheqi Fan from thte Hong Kong University of Science and Technology 
+iBOT is the implentation of a research paper titled "Beyond Prompting: An Autonomous Framework for Systematic Factor Investing via Agentic AI," by Allen Yikuan Huang and Zheqi Fan from the Hong Kong University of Science and Technology 
 The paper explores the idea of replacing manual prompting with a true agentic AI that acts like a self-directed quant researcher. It uses a closed-loop ReAct + Chain-of-Thought system to:
 Generate interpretable factors from primitives (returns, volume, volatility, etc.) with economic rationale required first.
 Backtest rigorously (t-IC, long-short Sharpe, no look-ahead).
